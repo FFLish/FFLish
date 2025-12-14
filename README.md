@@ -22,7 +22,7 @@ We are **FFLish**, a passionate **FIRST LEGO League (FLL)** robotics team and pa
 
 ---
 
-## 🌍 Social Media & Contact
+## Social Media & Contact
 
 <p align="left">
   <a href="https://instagram.com/fflish_robotics">
@@ -33,6 +33,9 @@ We are **FFLish**, a passionate **FIRST LEGO League (FLL)** robotics team and pa
   </a>
   <a href="mailto:fflishrobotics@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://pink-alliance.de" target="_blank">
+    <img src="https://img.shields.io/badge/Website-pink--alliance.de-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
 
@@ -50,7 +53,7 @@ We are **FFLish**, a passionate **FIRST LEGO League (FLL)** robotics team and pa
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 > Click a name to visit the GitHub profile
 
@@ -67,16 +70,16 @@ We are **FFLish**, a passionate **FIRST LEGO League (FLL)** robotics team and pa
 
 ## 📂 Projects & Code
 
-### 🤖 Robot Game
+### Robot Game
 - 🔗 **Unearthed** → https://github.com/FFLish/Unearthed  
 - 🔗 **Submerged** → https://github.com/FFLish/Submerged  
 
-### 💡 Innovation Projects
+### Innovation Projects
 - 🔗 **FFLish Scanner** → https://github.com/FFLish/fflishscanner  
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 ### Regionalwettbewerb Mannheim
 - 1st Place **Champion**
