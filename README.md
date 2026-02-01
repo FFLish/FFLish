@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="/banner.png" alt="FFLish Banner" width="100%">
+  <img src="/banner.PNG" alt="FFLish Banner" width="100%">
 </p>
 
 <p align="center">
   <a href="https://www.firstlegoleague.org">
-    <img src="https://img.shields.io/badge/FIRST%20LEGO%20League-Team-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/FIRST%20LEGO%20League-Team-181717?style=for-the-badge&logo=lego&logoColor=ff2da4">
   </a>
   <a href="https://www.google.com/maps/place/Heidelberg">
-    <img src="https://img.shields.io/badge/Location-Heidelberg%2C%20Germany-green?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Location-Heidelberg%2C%20Germany-181717?style=for-the-badge&logo=google-maps&logoColor=ff2da4">
   </a>
   <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Main%20Language-Python-yellow?style=for-the-badge&logo=python">
+    <img src="https://img.shields.io/badge/Main%20Language-Python-181717?style=for-the-badge&logo=python&logoColor=ff2da4">
   </a>
 </p>
 
@@ -41,16 +41,16 @@
 
 <p align="center">
   <a href="https://instagram.com/fflish_robotics">
-    <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-Follow-181717?style=for-the-badge&logo=instagram&logoColor=ff2da4">
   </a>
   <a href="https://youtube.com/@fflishrobotics">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-181717?style=for-the-badge&logo=youtube&logoColor=ff2da4">
   </a>
   <a href="mailto:fflishrobotics@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Contact-181717?style=for-the-badge&logo=gmail&logoColor=ff2da4">
   </a>
   <a href="https://pink-alliance.de">
-    <img src="https://img.shields.io/badge/PinkAlliance-Website-ff69b4?style=for-the-badge">
+    <img src="https://img.shields.io/badge/PinkAlliance-Website-181717?style=for-the-badge&logo=google-chrome&logoColor=ff2da4">
   </a>
 </p>
 
@@ -72,12 +72,12 @@
 ## Team Members
 
 <p align="center">
-  <a href="https://github.com/zinssejo"><img src="https://img.shields.io/badge/Jonathan-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/antonglsr"><img src="https://img.shields.io/badge/Anton-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/BoHaller"><img src="https://img.shields.io/badge/Bo-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/Bovvbo"><img src="https://img.shields.io/badge/Haibo-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/JakobAnschuetz"><img src="https://img.shields.io/badge/Jakob-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/TristanCoutant"><img src="https://img.shields.io/badge/Tristan-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/zinssejo"><img src="https://img.shields.io/badge/Jonathan-181717?style=for-the-badge&logo=github&logoColor=ff2da4"></a>
+  <a href="https://github.com/antonglsr"><img src="https://img.shields.io/badge/Anton-181717?style=for-the-badge&logo=github&logoColor=ff2da4"></a>
+  <a href="https://github.com/BoHaller"><img src="https://img.shields.io/badge/Bo-181717?style=for-the-badge&logo=github&logoColor=ff2da4"></a>
+  <a href="https://github.com/Bovvbo"><img src="https://img.shields.io/badge/Haibo-181717?style=for-the-badge&logo=github&logoColor=ff2da4"></a>
+  <a href="https://github.com/JakobAnschuetz"><img src="https://img.shields.io/badge/Jakob-181717?style=for-the-badge&logo=github&logoColor=ff2da4"></a>
+  <a href="https://github.com/TristanCoutant"><img src="https://img.shields.io/badge/Tristan-181717?style=for-the-badge&logo=github&logoColor=ff2da4"></a>
 </p>
 
 ---
@@ -88,10 +88,10 @@
 
 <p align="center">
   <a href="https://github.com/FFLish/Unearthed">
-    <img src="https://img.shields.io/badge/Unearthed-View%20Repository-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Unearthed-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=ff2da4">
   </a>
   <a href="https://github.com/FFLish/Submerged">
-    <img src="https://img.shields.io/badge/Submerged-View%20Repository-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Submerged-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=ff2da4">
   </a>
 </p>
 
@@ -99,10 +99,10 @@
 
 <p align="center">
   <a href="https://github.com/FFLish/fflishscanner">
-    <img src="https://img.shields.io/badge/FFLish%20Scanner-Open%20Project-green?style=for-the-badge">
+    <img src="https://img.shields.io/badge/FFLish%20Scanner-Open%20Project-181717?style=for-the-badge&logo=github&logoColor=ff2da4">
   </a>
   <a href="https://github.com/FFLish/DatArchi">
-    <img src="https://img.shields.io/badge/DatArchi-Open%20Project-green?style=for-the-badge">
+    <img src="https://img.shields.io/badge/DatArchi-Open%20Project-181717?style=for-the-badge&logo=github&logoColor=ff2da4">
   </a>
 </p>
 
@@ -144,3 +144,6 @@
 
 ---
 
+<p align="center">
+  <strong>FFLish — Engineering Precision • Competitive Robotics</strong>
+</p>
