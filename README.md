@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/banner.PNG" alt="FFLish Banner" width="100%">
+  <img src="/banner.JPG" alt="FFLish Banner" width="100%">
 </p>
 
 <p align="center">
@@ -130,6 +130,9 @@
 - Rising Star Award  
 - Robot Game — 17th Place  
 
+### Qualifikationswettbewerb Rockenhausen
+- Robot Design Nomination 
+
 </details>
 
 <details>
@@ -138,7 +141,9 @@
 ### Regionalwettbewerb Mannheim
 - Champion — 1st Place  
 - Robot Game — 1st Place  
-- Nominations: Robot Design, Research, Core Values  
+- Nominations: Robot Design, Research, Core Values 
+
+
 
 </details>
 
